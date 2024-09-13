@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+#navbar{
+    height: 60px;
+    background-color: black;
+}
+#logo{
+    color: aliceblue;
+}
+button{
+    background-color: #f08804;
+}
+a{
+    margin-right:200px;
+    color: aliceblue;
+    text-decoration: none;
+}
+p1{
+    color: black;
+    
+
+}
